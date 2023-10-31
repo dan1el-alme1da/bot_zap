@@ -2,5 +2,5 @@
  bot that sends messages on whatsapp
 
  library 
- # pywhatkit
- # keyboard
+  pywhatkit
+  keyboard
