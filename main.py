@@ -3,7 +3,7 @@ import keyboard
 import time
 from datetime import datetime
 
-contatos = ['+5585999053389']
+contatos = ['+55125699...']
 
 while len(contatos) >= 1:
 
